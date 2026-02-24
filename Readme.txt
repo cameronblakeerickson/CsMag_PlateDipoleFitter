@@ -1,0 +1,1 @@
+This is the first document for our projects "git repository". It will eventually describe the programs and files in the project. I will commit this file to the repository with the message "first commit, added Readme.txt"
